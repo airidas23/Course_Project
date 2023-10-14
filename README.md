@@ -15,7 +15,7 @@ The dataset is divided into two parts:
 - Hour
 - Temperature
 - Humidity
-- ... (additional features as provided in the dataset)
+- ... 
 
 ### Dependent Variable
 - Rented Bike Count
