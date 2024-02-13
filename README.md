@@ -16,9 +16,11 @@ The dataset comprises 3-axial linear acceleration and 3-axial angular velocity d
   - statsmodels
   - ydata_profiling
 - **Machine Learning Models:**
-  - RandomForestClassifier
-  - PCA (Principal Component Analysis)
-  - GridSearchCV (for hyperparameter tuning)
+  - Random Forest
+  - XGBoost
+  - Linear SVM
+  - KNN
+  - Voting Classifier
 
 # Loading the dataset
 df_test = pd.read_csv('activity_test.csv')
